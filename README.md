@@ -44,10 +44,11 @@ Here are some results of the object detection:
 ### Images
 
 
-<img src="https://github.com/SwathiReddy03/Real-Time-Object-Detection-Android-App/blob/main/results/img1.jpg" width="300"/> 
-<img src="https://github.com/SwathiReddy03/Real-Time-Object-Detection-Android-App/blob/main/results/img2.jpg" width="300"/> 
-<img src="https://github.com/SwathiReddy03/Real-Time-Object-Detection-Android-App/blob/main/results/img3.jpg" width="300"/>
-
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/SwathiReddy03/Real-Time-Object-Detection-Android-App/blob/main/results/img1.jpg" width="300"/>
+  <img src="https://github.com/SwathiReddy03/Real-Time-Object-Detection-Android-App/blob/main/results/img2.jpg" width="300"/>
+  <img src="https://github.com/SwathiReddy03/Real-Time-Object-Detection-Android-App/blob/main/results/img3.jpg" width="300"/>
+</div>
 
    
 
@@ -57,13 +58,15 @@ Here are some results of the object detection:
 
 A short clip showcasing real-time object detection.
 
-<video width="300" controls>
-  <source src="https://github.com/SwathiReddy03/Real-Time-Object-Detection-Android-App/blob/main/results/result_video_1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-<video width="300" controls>
-  <source src="https://github.com/SwathiReddy03/Real-Time-Object-Detection-Android-App/blob/main/results/result_video_2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div style="display: flex; justify-content: space-between;">
+  <video width="300" controls>
+    <source src="https://github.com/SwathiReddy03/Real-Time-Object-Detection-Android-App/blob/main/results/result_video_1.mp4?raw=true" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <video width="300" controls>
+    <source src="https://github.com/SwathiReddy03/Real-Time-Object-Detection-Android-App/blob/main/results/result_video_2.mp4?raw=true" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 
